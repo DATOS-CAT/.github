@@ -1,6 +1,8 @@
 # DATOS-CAT: Implementation & analysis of databases in precision medicine
 DATOS-CAT aims to increase the visibility and semantic impact of the population-based cohorts developed in Catalonia, GCAT|Genomes for life and the COVICAT-CONTENT sub-cohort. 
 
+![image](https://github.com/DATOS-CAT/.github/assets/122832755/2af45d12-c505-440a-95f7-4c885742bcd4)
+
 ## Description
 This action aims to improve the processes related to the introduction of phenotypic traits, environmental, genomic and clinical annotations of existing population cohorts, complementing, updating and connecting the available resources and facilitating the exposure and use of existing resources.
 Specifically, DATOS-CAT aims to increase the visibility and scientific impact of the population-based cohorts developed in Catalonia, GCAT|Genomes for life and the COVICAT-CONTENT sub-cohort, and to contribute to the development of procedures applicable to other cohorts, in particular, the national IMPaCT-Cohort initiative, improving the level of interoperability of their data in the context of the FAIR data ecosystem to facilitate their exploitation and scientific use. The EGA database structure at the genomic level and the development of OpenEHR-compatible standards for working with structured clinical data will be used as a basis for these developments. 
