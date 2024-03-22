@@ -13,7 +13,7 @@ DATOS-CAT seeks to contribute to making the investment made in these cohorts pro
 ## Collaborating entities
 - Institut de Bioenginyeria de Catalunya [(IBEC)](https://ibecbarcelona.eu/).
 - Barcelona SuperComputing Center - Centro Nacional de Supercomputación [(BSC - CNS)](https://www.bsc.es/ ).
-- Instituto de Investigación en Ciencias de la Salud Germans Trias i Pujol [(IGTP)](gcatbiobank.org). 
+- Instituto de Investigación en Ciencias de la Salud Germans Trias i Pujol [(IGTP)](http://www.gcatbiobank.org/). 
 - Fundación Privada Instituto de Salud Global de Barcelona [(ISGlobal)](https://www.isglobal.org/).
 - Hospital Clínic de Barcelona [(HCB)](https://www.clinicbarcelona.org/en).
 - Fundación Centro de Regulación Genómica [(CRG)](https://www.crg.eu/es/content/fundacio-centre-de-regulacio-genomica ).
@@ -21,4 +21,4 @@ DATOS-CAT seeks to contribute to making the investment made in these cohorts pro
 
 
 ## Funding
-“Financiado por el “Plan Complementario de Biotecnología aplicada a la Salud”, coordinado por el Institut de Bioenginyeria de Catalunya (IBEC) en el marco del Plan de Recuperación, Transformación y Resiliencia (C17.I1) ‐ Financiado por la Unión Europea – NextGenerationEU”
+Funded by the “Plan Complementario de Biotecnología aplicada a la Salud”, coordinated by the Institut de Bioenginyeria de Catalunya (IBEC) in the framework of the Plan de Recuperación, Transformación y Resiliencia (C17.I1) ‐ Funded by the European Union – NextGenerationEU
